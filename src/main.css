@@ -3,14 +3,6 @@ body {
 	background: #bbd4ce;
 }
 
-h4 {
-	margin: 5px;
-}
-
-p {
-	margin: 5px;
-}
-
 #app {
 	display: grid;
 	grid-template-columns: repeat(auto-fill, 200px);
