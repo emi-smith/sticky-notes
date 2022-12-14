@@ -110,7 +110,7 @@ p {
 		transition: background 0.2s;
 	}
 
-	.header {
+	.main-header {
 		font-size: 3rem;
 	}
 }
