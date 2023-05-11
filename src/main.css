@@ -37,7 +37,7 @@ body {
 	font-size: 80px;
 	color: rgba(0, 0, 0, 0.2);
 	cursor: pointer;
-	transition: background 0.2s;
+	transition: 0.2s;
 }
 
 .add-note:hover {
@@ -99,7 +99,7 @@ body {
 		font-size: 50px;
 		color: rgba(0, 0, 0, 0.2);
 		cursor: pointer;
-		transition: background 0.2s;
+		transition: 0.2s;
 	}
 
 	.main-header {
